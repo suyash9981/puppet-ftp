@@ -1,0 +1,15 @@
+{
+  "name": "puppet-ftp",
+  "version": "0.1.0",
+  "author": "Suyash Shrivastava",
+  "summary": "This is for ftp.",
+  "license": "Apache-2.0",
+  "source": "https://github.com/suyash9981/puppet-ftp",
+  "project_page": "https://github.com/suyash9981/puppet-ftp",
+  "issues_url": "https://github.com/suyash9981/puppet-ftp/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
